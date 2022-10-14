@@ -1,0 +1,21 @@
+COURSE SECTION INFORMATION
+DevOps
+Teacher's Name Pritesh Patel
+Email Pritesh.patel2@georgebrown.ca
+Phone
+Office
+Out of Class Assistance
+Course Code COMP 3104
+Course Section
+Academic Year 2022-2023
+Term Fall 2022
+All academic inquiries will be replied to within three business days.
+LIST OF TEXTBOOKS AND OTHER TEACHING AIDS:
+Required:
+None
+Recommended Resources:
+1. https://github.com
+2. https://travis-ci.com
+3. https://docker.com
+4. https://kubernetes.io
+5. https://www.sonarqube.org
