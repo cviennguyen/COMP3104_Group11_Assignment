@@ -42,3 +42,13 @@ As more organizations migrate to the cloud, DevOps will be tightly connected wit
  cloud-native security bringing changes in the way software is built, deployed, and
   operated. With SecDevOps, companies will be able to integrate security right into 
   the development and deployment workflows.
+
+# responsibilities of devops engineers
+The basic and widely-accepted responsibilities of a DevOps engineer are:
+
+Writing specifications and documentation for the server-side features
+Continuous deployment and continuous integration (CI/CD) management
+Performance assessment and monitoring
+Infrastructure management
+Cloud deployment and management
+Assistance with DevOps culture adoption
