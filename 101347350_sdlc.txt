@@ -29,3 +29,16 @@ and look for ways of facilitating other members’ tasks
 
 Early problem-solving. DevOps requires that tasks be performed as early in the project 
 lifecycle as possible. So, in case of any issues, they will be addressed more quickly.
+
+#The future of DevOps
+Since the time DevOps entered the game, it has proved to be effective in lots of ways: 
+From speeding up development processes to bringing more value along with high-quality 
+products.
+
+DevOps isn’t going anywhere, but it doesn’t stand still either. Here are three DevOps 
+trends for the near future.
+
+As more organizations migrate to the cloud, DevOps will be tightly connected with
+ cloud-native security bringing changes in the way software is built, deployed, and
+  operated. With SecDevOps, companies will be able to integrate security right into 
+  the development and deployment workflows.
