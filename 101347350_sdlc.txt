@@ -13,3 +13,19 @@ Better working environment. DevOps principles and practices lead to better
 communication between team members, and increased productivity and agility.
  Teams that practice DevOps are considered to be more productive and cross-skilled.
   Members of a DevOps team, both those who develop and those who operate, act in concert.
+
+# Devops principles
+Constant collaboration and communication. These have been the building blocks of DevOps
+ since its dawn. Your team should work cohesively with the understanding of the needs
+  and expectations of all members.
+
+Gradual changes. The implementation of gradual rollouts allows delivery teams to release
+ a product to users while having an opportunity to make updates and roll back if something
+  goes wrong.
+
+Shared end-to-end responsibility. When every member of a team moves towards one goal 
+and is equally responsible for a project from beginning to end, they work cohesively 
+and look for ways of facilitating other members’ tasks
+
+Early problem-solving. DevOps requires that tasks be performed as early in the project 
+lifecycle as possible. So, in case of any issues, they will be addressed more quickly.
