@@ -35,3 +35,11 @@ From an academic perspective, Len Bass, Ingo Weber, and Liming Zhu—three compu
 
 However, the term is used in multiple contexts. At its most successful, DevOps is a 
 combination of specific practices, culture change, and tools.
+
+#Relationship to other approach
+Many of the ideas fundamental to DevOps practices are inspired by, or mirror, other well known
+ practices such as Lean and Deming's Plan-Do-Check-Act cycle, through to The Toyota Way 
+ and the Agile approach of breaking down components and batch sizes.[17] Contrary to 
+ the "top-down" proscriptive approach and rigid framework of ITIL in the 1990s, DevOps
+  is "bottom-up" and a flexible practice, created by software engineers, with software
+   engineer needs in mind.
