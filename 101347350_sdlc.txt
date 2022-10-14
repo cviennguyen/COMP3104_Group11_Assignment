@@ -1,0 +1,15 @@
+//Advantages
+Higher speed and quality of product releases. DevOps speeds up 
+product release by introducing continuous delivery, encouraging
+ faster feedback, and allowing developers to fix bugs in the system 
+ in the early stages. Practicing DevOps, the team can focus on the quality
+  of the product and automate a number of processes.
+
+Faster responsiveness to customer needs. With DevOps, a team can react to change 
+requests from customers faster, adding new and updating existing features. As a result,
+ the time-to-market and value-delivery rates increase.
+
+Better working environment. DevOps principles and practices lead to better 
+communication between team members, and increased productivity and agility.
+ Teams that practice DevOps are considered to be more productive and cross-skilled.
+  Members of a DevOps team, both those who develop and those who operate, act in concert.
