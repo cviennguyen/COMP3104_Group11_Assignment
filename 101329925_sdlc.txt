@@ -1,1 +1,1 @@
-Devops development is an important skill to learn for developers who wish to organize their development cycle and collaborate with others.
+Devops development is an important skill to learn for developers who wish to organize their development cycle and collaborate with others. It allows for version control which makes it easier to keep track of changes to a program.
