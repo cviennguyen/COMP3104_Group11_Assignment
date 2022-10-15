@@ -1,1 +1,1 @@
-COMP3104, the devops course, is a program taught in George Brown College by Pritesh Patel.
+COMP3104, the devops course, is a program taught in George Brown College by Pritesh Patel. This course focuses on teaching the importance and fundamentals of devops, a software development practice focusing continuous integration and delivery.
