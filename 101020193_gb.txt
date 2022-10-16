@@ -22,3 +22,39 @@ HISTORY
         - ran against Canada's first prime minister John A. Macdonald in 
           Canada's first election
     - founder of The Globe (forerunner to The Globe and Mail) newspaper
+
+PROGRAMS
+- the college offers diploma progams, advanced diploma programs and degree programs 
+  at the following academic centres and schools
+
+	Centre for Arts, Design & Information Technology
+		School of Computer Technology
+		School of Design
+		School of Fashion & Jewellery
+		School of Media & Performing Arts
+	Centre for Business
+		School of Accounting & Finance
+		School of Human Resources
+		School of Management
+		School of Marketing
+	Centre for Community Service and Early Childhood
+		School of Deaf & Deafblind Studies
+		School of Early Childhood
+		School of Social & Community Services
+	Centre for Construction and Engineering Technology
+		Angelo DelZotto School of Construction Management
+		School of Apprenticeship & Skilled Trades
+		School of Architectural Studies
+		School of Mechanical Engineering Technologies
+	Centre for Health Sciences
+		School of Dental Health
+		School of Health & Wellness
+		School of Health Services Management
+		Sally Horsfall Eaton School of Nursing
+	Centre for Hospitality and Culinary Arts
+		Chef School
+		School of Hospitality & Tourism Management
+	Centre for Preparatory and Liberal Studies
+		School of English as a Second Language
+		School of Liberal Arts & Sciences
+		School of Work & College Preparation
