@@ -6,3 +6,11 @@ Email: Pritesh.patel2@georgebrown.ca
 Course Code: COMP 3104
 Academic Year: 2022-2023
 Term: Fall 2022
+
+ASSESSMENT TOOLS
+lab exercises (best of 8) %16
+lecture quizzes (best of 8) %8
+assignment1 (group assignment) %16
+assignment2 (individual assignment) %10
+exam (midterm) %20
+exam (final) %30
