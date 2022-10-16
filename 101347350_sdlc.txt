@@ -1,0 +1,54 @@
+//Advantages
+Higher speed and quality of product releases. DevOps speeds up 
+product release by introducing continuous delivery, encouraging
+ faster feedback, and allowing developers to fix bugs in the system 
+ in the early stages. Practicing DevOps, the team can focus on the quality
+  of the product and automate a number of processes.
+
+Faster responsiveness to customer needs. With DevOps, a team can react to change 
+requests from customers faster, adding new and updating existing features. As a result,
+ the time-to-market and value-delivery rates increase.
+
+Better working environment. DevOps principles and practices lead to better 
+communication between team members, and increased productivity and agility.
+ Teams that practice DevOps are considered to be more productive and cross-skilled.
+  Members of a DevOps team, both those who develop and those who operate, act in concert.
+
+# Devops principles
+Constant collaboration and communication. These have been the building blocks of DevOps
+ since its dawn. Your team should work cohesively with the understanding of the needs
+  and expectations of all members.
+
+Gradual changes. The implementation of gradual rollouts allows delivery teams to release
+ a product to users while having an opportunity to make updates and roll back if something
+  goes wrong.
+
+Shared end-to-end responsibility. When every member of a team moves towards one goal 
+and is equally responsible for a project from beginning to end, they work cohesively 
+and look for ways of facilitating other members’ tasks
+
+Early problem-solving. DevOps requires that tasks be performed as early in the project 
+lifecycle as possible. So, in case of any issues, they will be addressed more quickly.
+
+#The future of DevOps
+Since the time DevOps entered the game, it has proved to be effective in lots of ways: 
+From speeding up development processes to bringing more value along with high-quality 
+products.
+
+DevOps isn’t going anywhere, but it doesn’t stand still either. Here are three DevOps 
+trends for the near future.
+
+As more organizations migrate to the cloud, DevOps will be tightly connected with
+ cloud-native security bringing changes in the way software is built, deployed, and
+  operated. With SecDevOps, companies will be able to integrate security right into 
+  the development and deployment workflows.
+
+# responsibilities of devops engineers
+The basic and widely-accepted responsibilities of a DevOps engineer are:
+
+Writing specifications and documentation for the server-side features
+Continuous deployment and continuous integration (CI/CD) management
+Performance assessment and monitoring
+Infrastructure management
+Cloud deployment and management
+Assistance with DevOps culture adoption
