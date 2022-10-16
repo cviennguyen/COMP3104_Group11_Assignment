@@ -3,3 +3,9 @@ What is DevOps?
 - originated from agile software development
 - shortens and creates fewer redundancies in the systems development life cycle (SDLC)
 - key principles of shared ownership, workflow automation and rapid feedback
+
+CI/CD Pipeline
+- CI (Continuous integration): frequent merging of small change to the main branch
+	- automated builds with tools to spot errors easier
+- CD (Continuous Delivery): short development cycles at high speed and frequency
+- CD (Continuous Deployment): new features delivered frequently
