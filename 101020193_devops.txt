@@ -1,0 +1,8 @@
+COMP 3104 DevOps
+
+INFO
+Teacher's Name: Pritesh Patel
+Email: Pritesh.patel2@georgebrown.ca
+Course Code: COMP 3104
+Academic Year: 2022-2023
+Term: Fall 2022
