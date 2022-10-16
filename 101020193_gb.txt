@@ -58,3 +58,15 @@ PROGRAMS
 		School of English as a Second Language
 		School of Liberal Arts & Sciences
 		School of Work & College Preparation
+
+CAMPUSES
+	Casa Loma Campus
+		- 5 buildings
+	 	- on kendal ave, between davenport rd. and macpherson ave.
+		- Nearby are Casa Loma and the City of Toronto Archives
+	St. James Campus
+		- 7 buildings
+		- Nearby is St. James Park
+	Waterfront Campus
+		- 2 buildings
+		- main building is at 51 dockside dr.
