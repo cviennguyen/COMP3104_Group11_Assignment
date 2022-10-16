@@ -1,0 +1,25 @@
+What is DevOps?
+- combines software development with IT operation creating the portmanteau 
+  "DevOps"
+- originated from agile software development
+- shortens and creates fewer redundancies in the systems development life cycle 
+  (SDLC)
+- key principles of shared ownership, workflow automation and rapid feedback
+
+CI/CD Pipeline
+- CI (Continuous integration): frequent merging of small change to the main 
+  branch
+	- automated builds with tools to spot errors easier
+- CD (Continuous Delivery): short development cycles at high speed and 
+  frequency
+- CD (Continuous Deployment): new features delivered frequently
+
+Why is DevOps Important?
+- brings the cohesion of autonomous teams to fast paced high demand 
+  environments 
+- reduces IT overhead
+- improves communication across teams
+	- with continuous integration there doesn't need to be a seperate team to 	  	  
+      troubleshoot and fix problems
+- speeds up product deployment, and makes maintenance easier
+	- sped up development cycles makse innovation faster
