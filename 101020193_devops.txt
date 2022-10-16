@@ -6,27 +6,3 @@ Email: Pritesh.patel2@georgebrown.ca
 Course Code: COMP 3104
 Academic Year: 2022-2023
 Term: Fall 2022
-
-ASSESSMENT TOOLS
-lab exercises (best of 8) %16
-lecture quizzes (best of 8) %8
-assignment1 (group assignment) %16
-assignment2 (individual assignment) %10
-exam (midterm) %20
-exam (final) %30
-
-OUTLINE
-wk1 intro, BASH & The CLI
-wk2 Git, GitHub & more BASH
-wk3 Version Control for Devops
-wk4 Developer Operations Landscape
-wk5 Hosting High Geared Single Page Applications & Work tracking tools
-wk6 Continuous Integration / Continuous Deployment
-wk7 CI/CD Pipeline Sequences
-wk8 INTERCESSION WEEK
-wk9 Mid-term Exam
-wk10 Working with Cloud Infrastructure
-wk11 Automating Devops & Quality assurance
-wk12 Devops Assembly Lines
-wk13 Commonly Used DevOps Tech Exposed
-wk14 Transitioning into the role of DevOps
