@@ -1,0 +1,5 @@
+What is DevOps?
+- combines software development with IT operation creating the portmanteau "DevOps"
+- originated from agile software development
+- shortens and creates fewer redundancies in the systems development life cycle (SDLC)
+- key principles of shared ownership, workflow automation and rapid feedback
